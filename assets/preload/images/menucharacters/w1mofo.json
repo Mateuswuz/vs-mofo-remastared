@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "mofo campain",
+	"position": [
+		20,
+		10
+	],
+	"scale": 1,
+	"image": "w1 mofo",
+	"flipX": false
+}
