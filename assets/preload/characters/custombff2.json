@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF2 idle"
+		},
+		{
+			"offsets": [
+				-26,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF2 Up0"
+		},
+		{
+			"offsets": [
+				11,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF2 right0"
+		},
+		{
+			"offsets": [
+				120,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF2 left0"
+		},
+		{
+			"offsets": [
+				33,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF2 down0"
+		},
+		{
+			"offsets": [
+				12,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF2 down miss"
+		},
+		{
+			"offsets": [
+				-26,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF2 Up miss"
+		},
+		{
+			"offsets": [
+				9,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF2 right miss"
+		},
+		{
+			"offsets": [
+				41,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF2 left miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				46
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BF2 alt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-6
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BF2 alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				6
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "BF2 alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-63
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BF2 alt down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/custom bff 2",
+	"position": [
+		60,
+		310
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

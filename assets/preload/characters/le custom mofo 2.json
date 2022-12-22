@@ -1,0 +1,117 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-12,
+				346
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mofo up"
+		},
+		{
+			"offsets": [
+				188,
+				196
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mofo left"
+		},
+		{
+			"offsets": [
+				5,
+				111
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mofo right"
+		},
+		{
+			"offsets": [
+				56,
+				47
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mofo down"
+		},
+		{
+			"offsets": [
+				10,
+				143
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "mofo idle"
+		},
+		{
+			"offsets": [
+				10,
+				143
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "mofo idle"
+		},
+		{
+			"offsets": [
+				9,
+				158
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dumb",
+			"loop": false,
+			"name": "mofo dumb"
+		},
+		{
+			"offsets": [
+				11,
+				142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "mofo laugh"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/le custom mofo 2",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "monster mofo",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		25,
+		175
+	],
+	"camera_position": [
+		-90,
+		-80
+	],
+	"sing_duration": 3.5,
+	"scale": 1
+}

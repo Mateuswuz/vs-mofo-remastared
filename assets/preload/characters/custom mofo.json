@@ -1,0 +1,226 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				18
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mofo idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				55
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mofo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mofo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "danceLEFT",
+			"fps": 24,
+			"name": "mofo idle0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				19
+			],
+			"anim": "danceRIGHT",
+			"fps": 24,
+			"name": "mofo idle0",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				164
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mofo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-95
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mofo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				21
+			],
+			"anim": "yeah",
+			"fps": 24,
+			"name": "mofo yeah",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				6
+			],
+			"anim": "idle-alt 1",
+			"fps": 24,
+			"name": "mofo idlealt1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				14
+			],
+			"anim": "idle-alt 2",
+			"fps": 24,
+			"name": "mofo idlealt to idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				8,
+				14
+			],
+			"anim": "morph",
+			"fps": 24,
+			"name": "mofo to 2 loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "mofo idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				19
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "mofo idle0",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/custom mofo",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "custom mofo",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		109,
+		128
+	],
+	"camera_position": [
+		-20,
+		40
+	],
+	"sing_duration": 3.5,
+	"scale": 1
+}

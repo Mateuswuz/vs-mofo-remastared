@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				86
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				20
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				71,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf right0"
+		},
+		{
+			"offsets": [
+				-53,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				236,
+				52
+			],
+			"anim": "transform",
+			"fps": 20,
+			"name": "bf transform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/not bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "custom mofo",
+	"flip_x": true,
+	"healthbar_colors": [
+		82,
+		196,
+		226
+	],
+	"camera_position": [
+		40,
+		-30
+	],
+	"sing_duration": 2.8,
+	"scale": 1
+}

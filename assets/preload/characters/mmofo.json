@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "midle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				-240
+			],
+			"anim": "jumpscare",
+			"fps": 24,
+			"name": "jumpscare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-120
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mdown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "midle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mmofo",
+	"position": [
+		370,
+		-70
+	],
+	"healthicon": "custom mofo",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		109,
+		128
+	],
+	"camera_position": [
+		-190,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

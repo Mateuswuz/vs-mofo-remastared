@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				347,
+				-68
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mofo left"
+		},
+		{
+			"offsets": [
+				-76,
+				114
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mofo right"
+		},
+		{
+			"offsets": [
+				77,
+				366
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mofo up"
+		},
+		{
+			"offsets": [
+				-18,
+				-117
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mofo down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				118
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "mofo idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				118
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "mofo idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				346,
+				-23
+			],
+			"anim": "singLEFT-alt",
+			"fps": 36,
+			"name": "mofo alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				114
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 36,
+			"name": "mofo alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				365
+			],
+			"anim": "singUP-alt",
+			"fps": 36,
+			"name": "mofo alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-39
+			],
+			"anim": "singDOWN-alt",
+			"fps": 36,
+			"name": "mofo alt down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monster mofo",
+	"position": [
+		-100,
+		340
+	],
+	"healthicon": "custom mofo",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		109,
+		128
+	],
+	"camera_position": [
+		-110,
+		-30
+	],
+	"sing_duration": 3,
+	"scale": 1
+}
