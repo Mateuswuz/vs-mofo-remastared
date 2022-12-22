@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cerezo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cerez idle0000" x="0" y="0" width="1300" height="740" frameX="-26" frameY="-36" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0001" x="1300" y="0" width="1324" height="740" frameX="-10" frameY="-36" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0002" x="1300" y="0" width="1324" height="740" frameX="-10" frameY="-36" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0003" x="2624" y="0" width="1340" height="772" frameX="0" frameY="-12" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0004" x="2624" y="0" width="1340" height="772" frameX="0" frameY="-12" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0005" x="0" y="772" width="1341" height="788" frameX="0" frameY="0" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0006" x="0" y="772" width="1341" height="788" frameX="0" frameY="0" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0007" x="1341" y="772" width="1320" height="756" frameX="-14" frameY="-24" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0008" x="1341" y="772" width="1320" height="756" frameX="-14" frameY="-24" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0009" x="2661" y="772" width="1319" height="761" frameX="-14" frameY="-32" frameWidth="1341" frameHeight="793"/>
+	<SubTexture name="cerez idle0010" x="2661" y="772" width="1319" height="761" frameX="-14" frameY="-32" frameWidth="1341" frameHeight="793"/>
+</TextureAtlas>

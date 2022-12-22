@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leTress.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="le Tress0000" x="4" y="4" width="2886" height="755"/>
+	<SubTexture name="le Tress0001" x="4" y="4" width="2886" height="755"/>
+	<SubTexture name="le Tress0002" x="4" y="763" width="2869" height="755" frameX="0" frameY="0" frameWidth="2886" frameHeight="755"/>
+	<SubTexture name="le Tress0003" x="4" y="763" width="2869" height="755" frameX="0" frameY="0" frameWidth="2886" frameHeight="755"/>
+	<SubTexture name="le Tress0004" x="4" y="1522" width="2842" height="755" frameX="0" frameY="0" frameWidth="2886" frameHeight="755"/>
+	<SubTexture name="le Tress0005" x="4" y="1522" width="2842" height="755" frameX="0" frameY="0" frameWidth="2886" frameHeight="755"/>
+	<SubTexture name="le Tress0006" x="4" y="2281" width="2842" height="755" frameX="0" frameY="0" frameWidth="2886" frameHeight="755"/>
+	<SubTexture name="le Tress0007" x="4" y="2281" width="2842" height="755" frameX="0" frameY="0" frameWidth="2886" frameHeight="755"/>
+</TextureAtlas>

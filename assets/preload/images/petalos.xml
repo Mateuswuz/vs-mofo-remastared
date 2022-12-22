@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="petalos.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="petalos0000" x="0" y="0" width="1300" height="740" frameX="-148" frameY="-75" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0001" x="0" y="0" width="1300" height="740" frameX="-148" frameY="-75" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0002" x="1300" y="0" width="1331" height="740" frameX="-166" frameY="-85" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0003" x="1300" y="0" width="1331" height="740" frameX="-166" frameY="-85" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0004" x="2631" y="0" width="1375" height="740" frameX="-142" frameY="-74" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0005" x="2631" y="0" width="1375" height="740" frameX="-142" frameY="-74" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0006" x="0" y="740" width="1525" height="840"/>
+	<SubTexture name="petalos0007" x="0" y="740" width="1525" height="840"/>
+	<SubTexture name="petalos0008" x="1525" y="740" width="1335" height="740" frameX="-51" frameY="-47" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0009" x="1525" y="740" width="1335" height="740" frameX="-51" frameY="-47" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0010" x="0" y="1580" width="1361" height="740" frameX="-82" frameY="-74" frameWidth="1525" frameHeight="840"/>
+	<SubTexture name="petalos0011" x="0" y="1580" width="1361" height="740" frameX="-82" frameY="-74" frameWidth="1525" frameHeight="840"/>
+</TextureAtlas>
