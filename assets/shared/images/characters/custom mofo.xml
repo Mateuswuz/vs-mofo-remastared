@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="custom mofo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mofo down0000" x="0" y="0" width="496" height="312" frameX="-5" frameY="-29" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0001" x="496" y="0" width="500" height="308" frameX="-5" frameY="-33" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0002" x="996" y="0" width="496" height="318" frameX="-6" frameY="-23" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0003" x="1492" y="0" width="496" height="316" frameX="-6" frameY="-25" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0004" x="1988" y="0" width="495" height="332" frameX="-4" frameY="-9" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0005" x="2483" y="0" width="495" height="334" frameX="-4" frameY="-8" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0006" x="2978" y="0" width="502" height="338" frameX="-1" frameY="-3" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0007" x="3480" y="0" width="509" height="341" frameX="-1" frameY="0" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0008" x="3989" y="0" width="509" height="338" frameX="-1" frameY="-3" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0009" x="4498" y="0" width="505" height="339" frameX="0" frameY="-3" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0010" x="5003" y="0" width="505" height="339" frameX="0" frameY="-3" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0011" x="5508" y="0" width="505" height="343" frameX="0" frameY="-1" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0012" x="6013" y="0" width="505" height="343" frameX="0" frameY="-1" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0013" x="6518" y="0" width="505" height="344" frameX="0" frameY="0" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo down0014" x="7023" y="0" width="505" height="341" frameX="0" frameY="0" frameWidth="510" frameHeight="344"/>
+	<SubTexture name="mofo idle0000" x="7528" y="0" width="428" height="429" frameX="0" frameY="-17" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0001" x="7528" y="0" width="428" height="429" frameX="0" frameY="-17" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0002" x="0" y="429" width="422" height="426" frameX="-1" frameY="-20" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0003" x="422" y="429" width="422" height="426" frameX="-2" frameY="-19" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0004" x="844" y="429" width="427" height="430" frameX="-11" frameY="-15" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0005" x="1271" y="429" width="427" height="431" frameX="-11" frameY="-14" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0006" x="1698" y="429" width="432" height="436" frameX="-16" frameY="-9" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0007" x="1698" y="429" width="432" height="436" frameX="-16" frameY="-9" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0008" x="2130" y="429" width="439" height="438" frameX="-12" frameY="-8" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0009" x="2569" y="429" width="443" height="439" frameX="-9" frameY="-7" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0010" x="2569" y="429" width="443" height="439" frameX="-9" frameY="-7" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0011" x="3012" y="429" width="442" height="440" frameX="-11" frameY="-6" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0012" x="3012" y="429" width="442" height="440" frameX="-11" frameY="-6" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0013" x="3454" y="429" width="442" height="441" frameX="-11" frameY="-5" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0014" x="3896" y="429" width="421" height="435" frameX="-23" frameY="-10" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0015" x="3896" y="429" width="421" height="435" frameX="-23" frameY="-10" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0016" x="4317" y="429" width="422" height="429" frameX="-24" frameY="-17" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0017" x="4317" y="429" width="422" height="429" frameX="-24" frameY="-17" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0018" x="4739" y="429" width="410" height="438" frameX="-37" frameY="-8" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0019" x="5149" y="429" width="409" height="438" frameX="-38" frameY="-8" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0020" x="5558" y="429" width="410" height="444" frameX="-45" frameY="-2" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0021" x="5968" y="429" width="410" height="445" frameX="-45" frameY="-1" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0022" x="6378" y="429" width="430" height="445" frameX="-25" frameY="0" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0023" x="2569" y="429" width="443" height="439" frameX="-9" frameY="-7" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0024" x="6808" y="429" width="446" height="441" frameX="-5" frameY="-5" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0025" x="6808" y="429" width="446" height="441" frameX="-5" frameY="-5" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0026" x="7254" y="429" width="444" height="442" frameX="-7" frameY="-4" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0027" x="7254" y="429" width="444" height="442" frameX="-7" frameY="-4" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0028" x="7698" y="429" width="444" height="444" frameX="-7" frameY="-2" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idle0029" x="0" y="874" width="444" height="443" frameX="-7" frameY="-2" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idlealt to idle0000" x="444" y="874" width="432" height="436" frameX="0" frameY="-9" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt to idle0001" x="444" y="874" width="432" height="436" frameX="0" frameY="-9" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt to idle0002" x="876" y="874" width="423" height="429" frameX="-1" frameY="-14" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt to idle0003" x="1299" y="874" width="422" height="429" frameX="-2" frameY="-14" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt to idle0004" x="1721" y="874" width="427" height="436" frameX="-11" frameY="-5" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt to idle0005" x="2148" y="874" width="427" height="436" frameX="-11" frameY="-5" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt to idle0006" x="2575" y="874" width="433" height="436" frameX="-16" frameY="-4" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt to idle0007" x="2575" y="874" width="433" height="436" frameX="-16" frameY="-4" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt to idle0008" x="2130" y="429" width="439" height="438" frameX="-12" frameY="-4" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idlealt to idle0009" x="2569" y="429" width="443" height="439" frameX="-10" frameY="-3" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idlealt to idle0010" x="2569" y="429" width="443" height="439" frameX="-10" frameY="-3" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idlealt to idle0011" x="3012" y="429" width="442" height="440" frameX="-11" frameY="-2" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idlealt to idle0012" x="3012" y="429" width="442" height="440" frameX="-11" frameY="-2" frameWidth="455" frameHeight="446"/>
+	<SubTexture name="mofo idlealt to idle0013" x="3008" y="874" width="441" height="441" frameX="-12" frameY="0" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="mofo idlealt10000" x="3449" y="874" width="425" height="411" frameX="0" frameY="-20" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10001" x="3449" y="874" width="425" height="411" frameX="0" frameY="-20" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10002" x="3874" y="874" width="426" height="427" frameX="-1" frameY="-6" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10003" x="3874" y="874" width="426" height="427" frameX="-1" frameY="-6" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10004" x="4300" y="874" width="420" height="429" frameX="-6" frameY="-4" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10005" x="4300" y="874" width="420" height="429" frameX="-6" frameY="-4" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10006" x="4720" y="874" width="425" height="431" frameX="0" frameY="0" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10007" x="4720" y="874" width="425" height="431" frameX="0" frameY="0" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10008" x="5145" y="874" width="426" height="431" frameX="-1" frameY="-2" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10009" x="5145" y="874" width="426" height="431" frameX="-1" frameY="-2" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10010" x="5571" y="874" width="425" height="431" frameX="0" frameY="0" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10011" x="5571" y="874" width="425" height="431" frameX="0" frameY="0" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10012" x="5996" y="874" width="426" height="431" frameX="-1" frameY="-2" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10013" x="5996" y="874" width="426" height="431" frameX="-1" frameY="-2" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo idlealt10014" x="5996" y="874" width="426" height="431" frameX="-1" frameY="-2" frameWidth="427" frameHeight="433"/>
+	<SubTexture name="mofo left0000" x="6422" y="874" width="521" height="462" frameX="0" frameY="-18" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0001" x="6943" y="874" width="490" height="464" frameX="-32" frameY="-16" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0002" x="7433" y="874" width="465" height="466" frameX="-58" frameY="-14" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0003" x="0" y="1340" width="464" height="467" frameX="-58" frameY="-14" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0004" x="464" y="1340" width="442" height="470" frameX="-89" frameY="-10" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0005" x="906" y="1340" width="442" height="471" frameX="-89" frameY="-10" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0006" x="1348" y="1340" width="431" height="458" frameX="-159" frameY="-23" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0007" x="1779" y="1340" width="431" height="475" frameX="-154" frameY="-6" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0008" x="2210" y="1340" width="431" height="474" frameX="-154" frameY="-6" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0009" x="2641" y="1340" width="437" height="479" frameX="-142" frameY="-1" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0010" x="3078" y="1340" width="437" height="479" frameX="-142" frameY="-1" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0011" x="3515" y="1340" width="436" height="481" frameX="-142" frameY="0" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0012" x="3951" y="1340" width="435" height="481" frameX="-143" frameY="0" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0013" x="4386" y="1340" width="435" height="481" frameX="-143" frameY="0" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo left0014" x="4821" y="1340" width="436" height="481" frameX="-143" frameY="0" frameWidth="590" frameHeight="481"/>
+	<SubTexture name="mofo right0000" x="5257" y="1340" width="526" height="439" frameX="-24" frameY="-3" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0001" x="5783" y="1340" width="523" height="439" frameX="-31" frameY="-3" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0002" x="6306" y="1340" width="512" height="442" frameX="-32" frameY="0" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0003" x="6818" y="1340" width="513" height="442" frameX="-31" frameY="0" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0004" x="7331" y="1340" width="510" height="442" frameX="-16" frameY="0" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0005" x="0" y="1821" width="504" height="442" frameX="-22" frameY="0" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0006" x="504" y="1821" width="456" height="437" frameX="0" frameY="-5" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0007" x="960" y="1821" width="453" height="431" frameX="-4" frameY="-11" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0008" x="1413" y="1821" width="456" height="431" frameX="-1" frameY="-11" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0009" x="1869" y="1821" width="455" height="432" frameX="-4" frameY="-10" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0010" x="2324" y="1821" width="464" height="433" frameX="-4" frameY="-9" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0011" x="2788" y="1821" width="465" height="433" frameX="-3" frameY="-9" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0012" x="3253" y="1821" width="465" height="434" frameX="-3" frameY="-8" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0013" x="3718" y="1821" width="461" height="434" frameX="-7" frameY="-8" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo right0014" x="3718" y="1821" width="461" height="434" frameX="-7" frameY="-8" frameWidth="554" frameHeight="442"/>
+	<SubTexture name="mofo to 2 loop0000" x="4179" y="1821" width="490" height="426" frameX="-41" frameY="-16" frameWidth="531" frameHeight="443"/>
+	<SubTexture name="mofo to 2 loop0001" x="4669" y="1821" width="490" height="426" frameX="-41" frameY="-16" frameWidth="531" frameHeight="443"/>
+	<SubTexture name="mofo to 2 loop0002" x="5159" y="1821" width="488" height="443" frameX="0" frameY="0" frameWidth="531" frameHeight="443"/>
+	<SubTexture name="mofo to 2 loop0003" x="5647" y="1821" width="488" height="443" frameX="0" frameY="0" frameWidth="531" frameHeight="443"/>
+	<SubTexture name="mofo to 2 loop0004" x="6135" y="1821" width="490" height="409" frameX="-40" frameY="-33" frameWidth="531" frameHeight="443"/>
+	<SubTexture name="mofo to 2 loop0005" x="6625" y="1821" width="490" height="409" frameX="-40" frameY="-33" frameWidth="531" frameHeight="443"/>
+	<SubTexture name="mofo to 2 loop0006" x="7115" y="1821" width="498" height="428" frameX="-20" frameY="-15" frameWidth="531" frameHeight="443"/>
+	<SubTexture name="mofo to 2 loop0007" x="7115" y="1821" width="498" height="428" frameX="-20" frameY="-15" frameWidth="531" frameHeight="443"/>
+	<SubTexture name="mofo up0000" x="7613" y="1821" width="464" height="589" frameX="-26" frameY="0" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0001" x="0" y="2410" width="459" height="576" frameX="-24" frameY="-13" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0002" x="459" y="2410" width="460" height="564" frameX="-16" frameY="-25" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0003" x="919" y="2410" width="460" height="566" frameX="-16" frameY="-24" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0004" x="1379" y="2410" width="454" height="520" frameX="0" frameY="-70" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0005" x="1833" y="2410" width="454" height="519" frameX="0" frameY="-70" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0006" x="2287" y="2410" width="402" height="514" frameX="-35" frameY="-75" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0007" x="2689" y="2410" width="412" height="520" frameX="-25" frameY="-69" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0008" x="3101" y="2410" width="411" height="518" frameX="-26" frameY="-71" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0009" x="3512" y="2410" width="412" height="519" frameX="-25" frameY="-70" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0010" x="3924" y="2410" width="412" height="519" frameX="-25" frameY="-70" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0011" x="4336" y="2410" width="411" height="523" frameX="-25" frameY="-67" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0012" x="4747" y="2410" width="411" height="523" frameX="-25" frameY="-67" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0013" x="5158" y="2410" width="413" height="523" frameX="-24" frameY="-67" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo up0014" x="5571" y="2410" width="413" height="523" frameX="-24" frameY="-67" frameWidth="490" frameHeight="590"/>
+	<SubTexture name="mofo yeah0000" x="5984" y="2410" width="472" height="441" frameX="-39" frameY="-7" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0001" x="6456" y="2410" width="479" height="442" frameX="-34" frameY="-6" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0002" x="6935" y="2410" width="456" height="440" frameX="-33" frameY="-8" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0003" x="7391" y="2410" width="456" height="440" frameX="-33" frameY="-8" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0004" x="0" y="2986" width="436" height="445" frameX="-21" frameY="-3" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0005" x="436" y="2986" width="436" height="444" frameX="-21" frameY="-3" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0006" x="872" y="2986" width="456" height="447" frameX="-2" frameY="0" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0007" x="1328" y="2986" width="457" height="446" frameX="0" frameY="-2" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0008" x="1785" y="2986" width="447" height="438" frameX="-18" frameY="-10" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0009" x="2232" y="2986" width="449" height="439" frameX="-21" frameY="-9" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0010" x="2681" y="2986" width="447" height="440" frameX="-22" frameY="-8" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0011" x="2681" y="2986" width="447" height="440" frameX="-22" frameY="-8" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0012" x="3128" y="2986" width="447" height="441" frameX="-23" frameY="-7" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0013" x="3575" y="2986" width="447" height="440" frameX="-23" frameY="-7" frameWidth="513" frameHeight="448"/>
+	<SubTexture name="mofo yeah0014" x="4022" y="2986" width="447" height="440" frameX="-23" frameY="-7" frameWidth="513" frameHeight="448"/>
+</TextureAtlas>
