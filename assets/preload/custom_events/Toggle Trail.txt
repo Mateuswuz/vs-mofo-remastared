@@ -1,0 +1,6 @@
+value 1: dad
+
+value 2: bf
+
+para activar poner: 1
+para desactivar escribir: 0

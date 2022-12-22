@@ -1,0 +1,5 @@
+Value 1: Posicion Y exacta de donde lo quieres mover
+Value2: Duracion de este movimiento
+
+Recordar: Tiene animacion de "BackOut" se puede cambiar
+en el archivo .LUA
