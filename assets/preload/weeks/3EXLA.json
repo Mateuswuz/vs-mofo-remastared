@@ -1,0 +1,32 @@
+{
+	"storyName": "???",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "mofo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "2EXTRA",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Friday",
+			"custom mofo",
+			[
+				60,
+				60,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
+	"weekName": "no idea"
+}

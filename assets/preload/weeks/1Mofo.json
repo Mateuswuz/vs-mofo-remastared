@@ -1,0 +1,49 @@
+{
+	"storyName": "Part 1: BF Meets Himself",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"w1bf",
+		"",
+		"w1mofo"
+	],
+	"songs": [
+		[
+			"Start",
+			"custom bf",
+			[
+				0,
+				0,
+				73
+			]
+		],
+		[
+			"Impersonification",
+			"custom mofo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"False Note",
+			"monster mofo",
+			[
+				240,
+				100,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "VS Mofo"
+}
